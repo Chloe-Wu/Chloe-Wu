@@ -18,6 +18,43 @@
   </ul>
   
 </section>
+  <h2>My Work</h2>
+  <p>Here are a few examples of projects I've worked on:</p>
+  <ul>
+    <li><b>I-SEE</b>
+      An E-Commerce full-stack web app where you take the reins and decide what you want to sell. Let your imagination run wild!
+      <span>Front:</span> <a href="https://i-see-front.vercel.app/">Live Demo</a> <a href="https://github.com/Chloe-Wu/i-see-admin">Github</a>
+      <span>Admin:</span> <a href="https://i-see-admin.vercel.app/">Live Demo</a> <a href="https://github.com/Chloe-Wu/i-see-admin">Github</a>
+  </li>
+    <br/>
+    <li><b>School Active Shooter Rapid Response</b>
+      A innovative web app which visualizes data collected by the IoT project's hardware on an interactive map of the school compound allowing first responders to quickly respond.
+      <a href="https://chloe-wu.github.io/ast-dev-app/">Live Demo</a>
+      <a href="https://github.com/Chloe-Wu/capstone">Github</a>
+    </li>
+        <br/>
+    <li><b>345pi</b>
+      Aa edtech start up company which focused on creating the mobile app to gamified the calculus learning path. When I worked in the company, I developed the company landing page and designed the mobile app.
+      <a href="https://345pi.net/">Live Demo</a>
+      <a href="https://github.com/345piTeam/345pi.net">Github</a>
+    </li>
+        <br/>
+    <li><b>RMS</b>
+      Monitor the remote meeting anxiety and boost efficiency for both presenters and audiences during presentations through emotional design.
+      <a href="https://github.com/Chloe-Wu/RMS/tree/main">Github</a>
+    </li>
+  </ul>
+  
+<section>
+    <h2>Let's Connect</h2>
+  <p></p>I'm currently open to new opportunities, collaborations, and interesting projects. If you're looking for a frontend and UX engineer who's passionate about creating exceptional user experiences, let's connect:</p>
+  <ul>
+    <li>📧 Email: yiweiwu.hello@gmail.com</li>
+    <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/yiweiwu/">https://www.linkedin.com/in/yiweiwu/</a></li>
+    <li>🌐 Portfolio: <a href="https://www.yiweiwu.design/">https://www.yiweiwu.design/</a></li>
+  </ul>
+  
+</section>
 
 <!--
 **Chloe-Wu/Chloe-Wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
