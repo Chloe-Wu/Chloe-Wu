@@ -25,23 +25,27 @@
       An E-Commerce full-stack web app where you take the reins and decide what you want to sell. Let your imagination run wild!
       <span>Front:</span> <a href="https://i-see-front.vercel.app/">Live Demo</a> <a href="https://github.com/Chloe-Wu/i-see-admin">Github</a>
       <span>Admin:</span> <a href="https://i-see-admin.vercel.app/">Live Demo</a> <a href="https://github.com/Chloe-Wu/i-see-admin">Github</a>
+      <p><b>Tech stack:</b> NextJS, MongoDB, AWS, TailwindCSS, NextJS, Stripe, Styled Components</p>
   </li>
     <br/>
     <li><b>School Active Shooter Rapid Response</b>
       A innovative web app which visualizes data collected by the IoT project's hardware on an interactive map of the school compound allowing first responders to quickly respond.
       <a href="https://chloe-wu.github.io/ast-dev-app/">Live Demo</a>
       <a href="https://github.com/Chloe-Wu/capstone">Github</a>
+      <p><b>Tech stack:</b> React, CSS, JavaScript, Google Map API, Azure, Raspberry Pi, Python, Machine Learning</p>
     </li>
         <br/>
     <li><b>345pi</b>
       Aa edtech start up company which focused on creating the mobile app to gamified the calculus learning path. When I worked in the company, I developed the company landing page and designed the mobile app.
       <a href="https://345pi.net/">Live Demo</a>
       <a href="https://github.com/345piTeam/345pi.net">Github</a>
+      <p><b>Tech stack:</b> NextJS, TailwindCSS, React, TypeScript</p>
     </li>
         <br/>
     <li><b>RMS</b>
       Monitor the remote meeting anxiety and boost efficiency for both presenters and audiences during presentations through emotional design.
       <a href="https://github.com/Chloe-Wu/RMS/tree/main">Github</a>
+      <p><b>Tech stack:</b>JavaScript, HTML5, CSS, Machine Learning, Python, Raspberry Pi</p>
     </li>
   </ul>
   
