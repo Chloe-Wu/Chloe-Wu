@@ -1,6 +1,6 @@
 <section>
   <h2>Hello there! 👋 </h2>
-  <p>I'm <b>Yiwei Wu</b>, but feel free to call me <b>Chloe</b>. I'm a passionate <b>Frontend and UX Engineer</b> with a keen eye for creating beautiful, user-centric web experiences. I thrive on the intersection of design and development, working tirelessly to craft pixel-perfect interfaces that not only look stunning but also provide seamless and intuitive user interactions.
+  <p>I'm <b>Yiwei Wu</b>, but feel free to call me <b>Chloe</b>. I'm a passionate <b>Frontend Engineer and UX Engineer</b> with a keen eye for creating beautiful, user-centric web experiences. I thrive on the intersection of design and development, working tirelessly to craft pixel-perfect interfaces that not only look stunning but also provide seamless and intuitive user interactions.
   </p>
 </section>
 <section>
